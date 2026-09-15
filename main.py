@@ -1,7 +1,3 @@
-요청하신 기능을 모두 반영하여 수정한 main.py 전체 코드입니다.
-
-수정된 main.py
-Python
 import streamlit as st
 import pandas as pd
 import requests
